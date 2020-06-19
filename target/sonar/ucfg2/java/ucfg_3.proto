@@ -1,0 +1,32 @@
+
+{com.infosys.project1.Controller.ProductController#getproductsOnId(Ljava/lang/Integer;)Lcom/infosys/project1/DTO/ProductDTO;n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java/ /(""1*ƒ	
+1n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java0 0(%÷
+ô
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java0 0(%1
+%0+com.infosys.project1.Service.ProductService"__id*I*G3
+1com.infosys.project1.Controller.ProductController"
+productServiceŒ
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java0 0(=)
+%1#com.infosys.project1.DTO.ProductDTO"ucom.infosys.project1.Service.ProductService#getProductsOnId(Ljava/lang/Integer;)Lcom/infosys/project1/DTO/ProductDTO;*3
+1
+%0+com.infosys.project1.Service.ProductService*
+
+prodidjava.lang.Integer2$getProductsOnId(Ljava/lang/Integer;)Ù
+Ö
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java0 0(>1
+
+productDto#com.infosys.project1.DTO.ProductDTO"__id*+
+)
+%1#com.infosys.project1.DTO.ProductDTO"¥
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java1 1(3
+1
+
+productDto#com.infosys.project1.DTO.ProductDTO:
+prodidjava.lang.IntegerB53
+1com.infosys.project1.Controller.ProductController

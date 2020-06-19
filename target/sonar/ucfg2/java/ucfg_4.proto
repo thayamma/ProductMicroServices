@@ -1,0 +1,59 @@
+
+vcom.infosys.project1.Controller.ProductController#addproducts(Lcom/infosys/project1/DTO/ProductDTO;)Ljava/lang/String;n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java4 4("startingBlock*ˆ
+2n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java7	 7('"’
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java7 7(( 
+Products Added successfully!*·
+startingBlockn
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java4 4(>ó
+ð
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java3 3(T
+%2"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*3
+1
+
+productdto#com.infosys.project1.DTO.ProductDTOó
+ð
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java4 4('
+%3"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*3
+1
+
+productdto#com.infosys.project1.DTO.ProductDTOÄ
+Á
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java43 4(=1
+
+productdto#com.infosys.project1.DTO.ProductDTO"__annotation*
+
+%2*
+
+%3*
+3*ó
+3n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java6 6(÷
+ô
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java6 6(1
+%0+com.infosys.project1.Service.ProductService"__id*I*G3
+1com.infosys.project1.Controller.ProductController"
+productServiceþû
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java6 6((
+
+%1void"_com.infosys.project1.Service.ProductService#addproducts(Lcom/infosys/project1/DTO/ProductDTO;)V*3
+1
+%0+com.infosys.project1.Service.ProductService*3
+1
+
+productdto#com.infosys.project1.DTO.ProductDTO22addproducts(Lcom/infosys/project1/DTO/ProductDTO;)*
+2:1
+
+productdto#com.infosys.project1.DTO.ProductDTOB53
+1com.infosys.project1.Controller.ProductController

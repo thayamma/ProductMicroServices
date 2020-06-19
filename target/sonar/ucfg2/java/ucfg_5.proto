@@ -1,0 +1,40 @@
+
+gcom.infosys.project1.Controller.ProductController#deleteproducts(Ljava/lang/Integer;)Ljava/lang/String;n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java< <("1*î
+
+1n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java= =(	Ô
+Ñ
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java= =(	
+%0org.slf4j.Logger"__id*A*?3
+1com.infosys.project1.Controller.ProductController"
+loggerÍÊ
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java= =(?
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*)'
+%Request for order removal by buyer {}*
+
+prodidjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)÷
+ô
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java> >(1
+%2+com.infosys.project1.Service.ProductService"__id*I*G3
+1com.infosys.project1.Controller.ProductController"
+productServiceÊÇ
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java> >((
+
+%3void"Pcom.infosys.project1.Service.ProductService#deleteproducts(Ljava/lang/Integer;)V*3
+1
+%2+com.infosys.project1.Service.ProductService*
+
+prodidjava.lang.Integer2#deleteproducts(Ljava/lang/Integer;)"Š
+n
+dC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/Controller/ProductController.java? ?(!
+Deleted successfully:
+prodidjava.lang.IntegerB53
+1com.infosys.project1.Controller.ProductController

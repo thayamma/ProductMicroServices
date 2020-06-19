@@ -1,0 +1,7 @@
+organization=thayamma
+projectKey=thayamma_ProductMicroservice
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8760
+dashboardUrl=https://sonarcloud.io/dashboard?id=thayamma_ProductMicroservice
+ceTaskId=AXLLfrXk8soIs9HdcBla
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXLLfrXk8soIs9HdcBla

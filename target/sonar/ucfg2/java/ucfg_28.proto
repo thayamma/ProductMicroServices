@@ -1,0 +1,172 @@
+
+}com.infosys.project1.DTO.ProductDTO#valueof(Lcom/infosys/project1/Entity/ProductEntity;)Lcom/infosys/project1/DTO/ProductDTO;`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaU U(!"1*Å4
+1`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaV V(&µ≤
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaV V($)
+%0#com.infosys.project1.DTO.ProductDTO"#com.infosys.project1.DTO.ProductDTO«
+ƒ
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaV V(&
+%1"-com.infosys.project1.DTO.ProductDTO#<init>()V*+
+)
+%0#com.infosys.project1.DTO.ProductDTO»
+≈
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaV V('.
+product#com.infosys.project1.DTO.ProductDTO"__id*+
+)
+%0#com.infosys.project1.DTO.ProductDTOËÂ
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaW W("	
+%2int"6com.infosys.project1.Entity.ProductEntity#getProdid()I*1
+/
+p1)com.infosys.project1.Entity.ProductEntity2getProdid()ÒÓ
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaW W(#
+
+%3void"1com.infosys.project1.DTO.ProductDTO#setProdid(I)V*0
+.
+product#com.infosys.project1.DTO.ProductDTO*
+	
+%2int2setProdid(I)ÑÅ
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaX X( 
+%4java.lang.String"Fcom.infosys.project1.Entity.ProductEntity#getBrand()Ljava/lang/String;*1
+/
+p1)com.infosys.project1.Entity.ProductEntity2
+getBrand()ûõ
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaX X(!
+
+%5void"Acom.infosys.project1.DTO.ProductDTO#setBrand(Ljava/lang/String;)V*0
+.
+product#com.infosys.project1.DTO.ProductDTO*
+
+%4java.lang.String2setBrand(Ljava/lang/String;)äá
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaY Y(&
+%6java.lang.String"Icom.infosys.project1.Entity.ProductEntity#getCategory()Ljava/lang/String;*1
+/
+p1)com.infosys.project1.Entity.ProductEntity2getCategory()§°
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaY Y('
+
+%7void"Dcom.infosys.project1.DTO.ProductDTO#setCategory(Ljava/lang/String;)V*0
+.
+product#com.infosys.project1.DTO.ProductDTO*
+
+%6java.lang.String2setCategory(Ljava/lang/String;)êç
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaZ Z(,
+%8java.lang.String"Lcom.infosys.project1.Entity.ProductEntity#getDescription()Ljava/lang/String;*1
+/
+p1)com.infosys.project1.Entity.ProductEntity2getDescription()™ß
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaZ Z(-
+
+%9void"Gcom.infosys.project1.DTO.ProductDTO#setDescription(Ljava/lang/String;)V*0
+.
+product#com.infosys.project1.DTO.ProductDTO*
+
+%8java.lang.String2"setDescription(Ljava/lang/String;)ÖÇ
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.java[ [( 
+%10java.lang.String"Fcom.infosys.project1.Entity.ProductEntity#getImage()Ljava/lang/String;*1
+/
+p1)com.infosys.project1.Entity.ProductEntity2
+getImage()†ù
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.java[ [(!
+%11void"Acom.infosys.project1.DTO.ProductDTO#setImage(Ljava/lang/String;)V*0
+.
+product#com.infosys.project1.DTO.ProductDTO*
+
+%10java.lang.String2setImage(Ljava/lang/String;)ÈÊ
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.java\ \( 
+%12float"5com.infosys.project1.Entity.ProductEntity#getPrice()F*1
+/
+p1)com.infosys.project1.Entity.ProductEntity2
+getPrice()Û
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.java\ \(!
+%13void"0com.infosys.project1.DTO.ProductDTO#setPrice(F)V*0
+.
+product#com.infosys.project1.DTO.ProductDTO*
+
+%12float2setPrice(F)ëé
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.java] ](,
+%14java.lang.String"Lcom.infosys.project1.Entity.ProductEntity#getProductName()Ljava/lang/String;*1
+/
+p1)com.infosys.project1.Entity.ProductEntity2getProductName()¨©
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.java] ](-
+%15void"Gcom.infosys.project1.DTO.ProductDTO#setProductName(Ljava/lang/String;)V*0
+.
+product#com.infosys.project1.DTO.ProductDTO*
+
+%14java.lang.String2"setProductName(Ljava/lang/String;)ÈÊ
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.java^ ^("
+
+%16int"6com.infosys.project1.Entity.ProductEntity#getRating()I*1
+/
+p1)com.infosys.project1.Entity.ProductEntity2getRating()Û
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.java^ ^(#
+%17void"1com.infosys.project1.DTO.ProductDTO#setRating(I)V*0
+.
+product#com.infosys.project1.DTO.ProductDTO*
+
+
+%16int2setRating(I)ÌÍ
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.java_ _(&
+
+%18int"8com.infosys.project1.Entity.ProductEntity#getSellerId()I*1
+/
+p1)com.infosys.project1.Entity.ProductEntity2getSellerId()˜Ù
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.java_ _('
+%19void"3com.infosys.project1.DTO.ProductDTO#setSellerId(I)V*0
+.
+product#com.infosys.project1.DTO.ProductDTO*
+
+
+%18int2setSellerId(I)Á‰
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.java` `( 
+
+%20int"5com.infosys.project1.Entity.ProductEntity#getStock()I*1
+/
+p1)com.infosys.project1.Entity.ProductEntity2
+getStock()ÒÓ
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.java` `(!
+%21void"0com.infosys.project1.DTO.ProductDTO#setStock(I)V*0
+.
+product#com.infosys.project1.DTO.ProductDTO*
+
+
+%20int2setStock(I)ëé
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaa a(,
+%22java.lang.String"Lcom.infosys.project1.Entity.ProductEntity#getSubCategory()Ljava/lang/String;*1
+/
+p1)com.infosys.project1.Entity.ProductEntity2getSubCategory()¨©
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javaa a(-
+%23void"Gcom.infosys.project1.DTO.ProductDTO#setSubcategory(Ljava/lang/String;)V*0
+.
+product#com.infosys.project1.DTO.ProductDTO*
+
+%22java.lang.String2"setSubcategory(Ljava/lang/String;)"î
+`
+VC:/Users/thaya/Desktop/project1/src/main/java/com/infosys/project1/DTO/ProductDTO.javac c(0
+.
+product#com.infosys.project1.DTO.ProductDTO:/
+p1)com.infosys.project1.Entity.ProductEntityB'"%
+#com.infosys.project1.DTO.ProductDTO
